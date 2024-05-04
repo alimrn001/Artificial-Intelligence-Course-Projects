@@ -1,0 +1,23 @@
+[submodule "AI-CA0"]
+    path = AI-CA0
+    url = https://github.com/alimrn001/AI-CA0
+
+[submodule "AI-CA1"]
+    path = AI-CA1
+    url = https://github.com/alimrn001/AI-CA1
+
+[submodule "AI-CA2"]
+    path = AI-CA2
+    url = https://github.com/alimrn001/AI-CA2
+
+[submodule "AI-CA3"]
+    path = AI-CA3
+    url = https://github.com/alimrn001/AI-CA3
+
+[submodule "AI-CA4"]
+    path = AI-CA4
+    url = https://github.com/alimrn001/AI-CA4
+
+[submodule "AI-CA5"]
+    path = AI-CA5
+    url = https://github.com/alimrn001/AI-CA5
